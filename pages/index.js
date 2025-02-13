@@ -1,5 +1,5 @@
 
-import Navbar from "@/components/Nevbar";
+import Navbar from "@/components/Navbar";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
